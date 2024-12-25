@@ -1,0 +1,19 @@
+<!DOCTYPE HTML>
+<html lang="fr">
+<head>
+    <meta charset="utf-8"/>
+    
+    <title> Menu Noel </title>
+
+    <h1> Menu de Noël 2024 </h1>
+
+h1 { 
+text-align: center
+color: black
+}
+
+
+
+
+</head>
+</html>
